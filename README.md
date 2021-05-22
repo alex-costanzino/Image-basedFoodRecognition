@@ -7,9 +7,18 @@ The repository contains the project realized for the *Deep Learning* course of t
 * `u_net_for_image-based_food_segmentation.ipynb` is the main notebook;
 * `evaluation-demo.ipynb` is a notebook for quick evaluation of the various models.
 
-## Libraries
-* pycocotools [API](https://github.com/cocodataset/cocoapi)
-* Tensorflow + Keras
+## Main libraries
+* Tensorflow with Keras backend;
+* Numpy;
+* Pandas;
+* OpenCV;
+* PIL;
+* pycocotools;
+* tqdm;
+* matplotlib;
+* segmentation_models.
+
+Further details can be found in the report.
 
 ## License
 
