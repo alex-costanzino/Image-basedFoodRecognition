@@ -5,7 +5,7 @@ MSc student in Artificial Intelligence
 March, 2021
 '''
 
-# We'll check the dimension of the various images in order to choose a trad-eoff between upsampling and downsampling of the images
+# We'll check the dimension of the various images in order to choose a trade-off between upsampling and downsampling of the images
 import os
 import cv2
 import numpy as np
