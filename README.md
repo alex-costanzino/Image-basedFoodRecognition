@@ -8,7 +8,7 @@ The projects is realized by:
 ## Contents
 * `01_dimension_check.py` and `02_reordering_dataset.py` are just auxiliary tools to pre-process the dataset;
 * `u_net_for_image-based_food_segmentation.ipynb` is the main notebook;
-* `evaluation-demo.ipynb` is a notebook for quick evaluation of the various models.
+* `demo_evaluation.ipynb` is a notebook for quick evaluation of the various models.
 
 ## Main libraries
 * Tensorflow with Keras backend;
